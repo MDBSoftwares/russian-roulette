@@ -1,18 +1,16 @@
 # russian-roulette
 
 Feeling lucky ?
-Try now the russian roulette alone or with your friends !
 
-Provoke your friends to play the game, the last player "alive" wins !
-You can even organize competitions or duels !
+Play for fun the russian roulette alone or with your friends ! You can also organize competitions or duels, the last player "alive" wins. 
 
-☆ Feature
+☆ Features
 - Realistic animations
-- User friendly interface
-- Deathly times and lucky times reminders
-- Instructions
-- Achievements
-- A lot of settings
+- Very intuitive interface
+- Deaths & Lucks counters
+- Game instructions
+- Unlockable achievements
+- Sounds and vibration settings
 
 Enjoy !
 
