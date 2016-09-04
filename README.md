@@ -1,4 +1,4 @@
-# russian-roulette
+# Russian Roulette
 
 ![Ecran principal](https://github.com/MDBSoftwares/russian-roulette/blob/master/screenshot_main.png)
 
@@ -19,3 +19,5 @@ Enjoy !
 ☆ Warning
 This is a game, it does not fire real bullets.
 Please, do not try the Russian Roulette game with a real gun and real bullets. Never.
+
+![Download](https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png)
