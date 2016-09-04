@@ -2,11 +2,11 @@
 
 ![Ecran principal](https://github.com/MDBSoftwares/russian-roulette/blob/master/screenshot_main.png)
 
-## Feeling lucky ?
+### Feeling lucky ?
 
 Play for fun the russian roulette alone or with your friends ! You can also organize competitions or duels, the last player "alive" wins. 
 
-☆ Features
+☆ **Features**
 - Realistic animations
 - Very intuitive interface
 - Deaths & Lucks counters
@@ -14,9 +14,9 @@ Play for fun the russian roulette alone or with your friends ! You can also orga
 - Unlockable achievements
 - Sounds and vibration settings
 
-☆ Warning
+☆ **Warning**
 
-This is a game, it does not fire real bullets.
-Please, do not try the Russian Roulette game with a real gun and real bullets. Never.
+```This is a game, it does not fire real bullets.
+Please, do not try the Russian Roulette game with a real gun and real bullets. Never.```
 
 <a href="https://github.com/MDBSoftwares/russian-roulette/blob/master/russian-roulette.apk"><img src="https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png" width="150"></a>
