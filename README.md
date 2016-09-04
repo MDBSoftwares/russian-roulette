@@ -14,9 +14,9 @@ Play for fun the russian roulette alone or with your friends ! You can also orga
 - Unlockable achievements
 - Sounds and vibration settings
 
-<a href="https://github.com/MDBSoftwares/russian-roulette/blob/master/russian-roulette.apk"><img src="https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png" width="150"></a>
-
 ```
 This is a game, it does not fire real bullets.
 Please, do not try the Russian Roulette game with a real gun and real bullets. Never.
 ```
+
+<a href="https://github.com/MDBSoftwares/russian-roulette/blob/master/russian-roulette.apk"><img src="https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png" width="150"></a>
