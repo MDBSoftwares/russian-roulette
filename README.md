@@ -1,6 +1,8 @@
 # russian-roulette
 
-Feeling lucky ?
+![Ecran principal](https://github.com/MDBSoftwares/russian-roulette/blob/master/screenshot_main.png)
+
+## Feeling lucky ?
 
 Play for fun the russian roulette alone or with your friends ! You can also organize competitions or duels, the last player "alive" wins. 
 
