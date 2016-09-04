@@ -1,4 +1,4 @@
-## Russian Roulette
+# Russian Roulette
 
 ![Ecran principal](https://github.com/MDBSoftwares/russian-roulette/blob/master/screenshot_main.png)
 
