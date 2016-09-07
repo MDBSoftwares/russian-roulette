@@ -19,4 +19,4 @@ This is a game, it does not fire real bullets.
 Please, do not try the Russian Roulette game with a real gun and real bullets. Never.
 ```
 
-<a href="https://github.com/MDBSoftwares/russian-roulette/blob/master/russian-roulette-debug.apk"><img src="https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png" width="150"></a>
+<a href="https://github.com/MDBSoftwares/russian-roulette/blob/master/russian-roulette-debug.apk?raw=true"><img src="https://github.com/MDBSoftwares/russian-roulette/blob/master/image_download.png" width="150"></a>
